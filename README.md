@@ -1,1 +1,3 @@
-# yura
+# PURPOSE TO STUDY KERNEL 
+
+# 
