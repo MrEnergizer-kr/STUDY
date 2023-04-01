@@ -1,3 +1,0 @@
-# PURPOSE TO STUDY KERNEL 
-
-# 
